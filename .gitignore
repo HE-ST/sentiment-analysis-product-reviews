@@ -1,0 +1,25 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv4/
+venv/
+env/
+
+# Generated model
+outputs/*.pkl
+
+# Dataset CSV files
+dataset/*.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+

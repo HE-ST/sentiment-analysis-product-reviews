@@ -1,0 +1,12 @@
+Logistic Regression Evaluation
+
+Accuracy: 0.9510
+
+              precision    recall  f1-score   support
+
+    negative       0.99      0.90      0.94       447
+    positive       0.93      0.99      0.96       553
+
+    accuracy                           0.95      1000
+   macro avg       0.96      0.95      0.95      1000
+weighted avg       0.95      0.95      0.95      1000
